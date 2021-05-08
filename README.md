@@ -12,6 +12,8 @@ After requirements was successfully installed use [docker-compose](https://docs.
 docker-compose up
 ```
 ## How to use
+You can find bot by @exchange_test_rate_bot
+
 When bot launched use commands:
 
 /start - start bot
